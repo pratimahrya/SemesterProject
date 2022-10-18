@@ -1,0 +1,22 @@
+
+		GrabMart-Inventory
+	 Phone8 No. 01-4510424, Baneswor-10
+===============================================
+Customer Name: pratima 
+Ph no. : 9869239521
+Bill No. 11167258			Date: 11/09/22
+===============================================
+Product Name			QTY	Price
+===============================================
+        
+ Mansuli Rice			1	Rs.100.0
+ Jasmine Rice			1	Rs.105.0
+ Scar Shine			1	Rs.142.0
+ Glysolid 			1	Rs.92.0
+===============================================
+Bill Amount				Rs.439.0
+Discount				Rs.21.95
+Net Pay				Rs.417.05
+===============================================
+
+        
